@@ -1,0 +1,103 @@
+body{
+    margin: 0px 0px 60px;
+}
+
+body header div {
+    margin: 0px 104.5px;
+    padding: 0px 15px;
+    margin-left: 100px;
+}
+
+header nav div{
+    margin: 0px 0px 16px;
+    padding: 8px 16px;
+    box-shadow: 0px 0.2px 0px gray;
+}
+
+img{
+    margin-left: 60px;
+}
+
+nav div{
+    margin: 0px 88.5px;
+    padding: 0px 15px;
+}
+
+#menu ul {
+    padding:0px;
+    margin:0px;
+}
+
+#menu ul li { 
+    display: inline;
+} /*Alinhamento do menu horizontal*/
+
+#menu ul a{
+    padding: 2px 10px;
+    color: #343a40;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    text-decoration: none;
+} /*Parte do "TheTrip" no menu*/
+
+#menu ul li a {
+    padding: 2px 10px;
+    color: #343a40;
+    font-family: 'Segoe UI';
+    font-size: 16px;
+    text-decoration: none;
+}
+
+#btnCriar{
+    color: white;
+    background-color: #1b6ec2;
+    font-family: 'Segoe UI';
+    padding: 6px 12px;
+    border-radius: 10%;
+    margin-left: 100px;
+}
+
+#btnEditar{
+    color: white;
+    background-color: #17a2b8;
+    font-family: 'Segoe UI';
+    padding: 6px 12px;
+    border-radius: 10%;
+}
+
+#btnDetalhes{
+    color: white;
+    background-color: #28a745;
+    font-family: 'Segoe UI';
+    padding: 6px 12px;
+    border-radius: 10%;
+}
+
+#btnDeletar{
+    color: white;
+    background-color: #dc3545;
+    font-family: 'Segoe UI';
+    padding: 6px 12px;
+    border-radius: 10%;
+}
+
+#tabela{
+    margin-top: 10px;
+    margin-left: 100px;
+    font-family: 'Segoe UI';
+}
+
+#roda-pé{
+    margin: 0px 104.5px;
+    padding: 0px 15px;
+    margin-top: 142px;
+    position: absolute;
+    bottom: 0;
+    width: 50%;
+    font-family: 'Segoe UI';
+    color: #6c757d;
+}
+
+#roda-pé a {
+    color: #0366d6;
+}
